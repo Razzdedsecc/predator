@@ -1,0 +1,2 @@
+# predator
+read setup.txt
